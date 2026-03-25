@@ -105,7 +105,10 @@ DCI Studios follows a **private-first development model**.
   <a href="https://hosting.dcistudios.xyz">
     <img src="https://img.shields.io/badge/DCI_Hosting-Infrastructure-0EA5E9?style=for-the-badge" />
   </a>
-
+  <a href="https://forums.dcistudios.xyz">
+    <img src="https://img.shields.io/badge/DCI_Forums-Community-8B5CF6?style=for-the-badge" />
+  </a>
+  
   <a href="https://thecarter.xyz">
     <img src="https://img.shields.io/badge/Carter-Portfolio-6366F1?style=for-the-badge" />
   </a>
