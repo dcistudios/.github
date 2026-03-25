@@ -1,72 +1,38 @@
 # <p align="center">🏢 DCI Studios Organization</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=777BB4&center=true&vCenter=true&width=500&lines=Official+DCI+Studios+Organization;Building+Private+and+Public+Projects;Development+%7C+Hosting+%7C+Automation;Powered+by+Carter" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Official+DCI+Studios+Organization;Private+Development+%7C+Public+Innovation;Hosting+%7C+Bots+%7C+Infrastructure;Building+Reliable+Software" />
 </p>
 
 ---
 
 ## 👋 Welcome to DCI Studios
 
-**DCI Studios** is a private development organization focused on building high-quality software, Discord bots, hosting solutions, and web infrastructure.
+**DCI Studios** is a private-first development organization focused on building high-performance software, Discord bots, hosting infrastructure, and web platforms.
 
-> ⚠️ **Important Notice**  
-> Most (if not all) repositories in this organization are **private**.  
+> ⚠️ Most repositories in this organization are **private**.  
 > Public repositories will only be released when officially announced by DCI Studios.
 
 ---
 
-## 🏢 About the Organization
+## 🏢 Organization Focus
 
-DCI Studios focuses on:
-
-- 🤖 Discord Bot Development
-- 🌐 Web Infrastructure
-- 🖥 Hosting Solutions
-- 🔐 Private Development Projects
-- 📦 Internal Tools
-- ⚙️ Automation Systems
-
-All production and internal systems are maintained privately for **security, stability, and controlled releases**.
+- 🤖 Discord Bot Development  
+- 🌐 Web Platforms  
+- 🖥 NVMe Hosting Infrastructure  
+- 🔐 Private Internal Tools  
+- ⚙️ Automation Systems  
+- 🚀 Scalable Network Services  
 
 ---
 
-## 🚀 Public Releases
-
-When DCI Studios releases a public project, it will appear here.
-
-### Release Policy
-
-- Private by default
-- Public only when stable
-- Official announcements required
-- Maintained and supported by DCI Studios
-
----
-
-## 🌐 Official Links
-
-<p align="center">
-  <a href="https://dcistudios.xyz">
-    <img src="https://img.shields.io/badge/DCI_Studios-Website-777BB4?style=for-the-badge" />
-  </a>
-  
-  <a href="https://dcicounting.com">
-    <img src="https://img.shields.io/badge/DCI_Counting-Project-238636?style=for-the-badge" />
-  </a>
-  
-  <a href="https://thecarter.xyz">
-    <img src="https://img.shields.io/badge/Carter-Portfolio-0078D4?style=for-the-badge" />
-  </a>
-</p>
-
----
-
-## 📦 Featured Project
+## 🚀 Official Projects
 
 ### 🤖 DCI Counting
+**Status:** Public Beta • Stable  
+**Website:** https://dcicounting.com  
 
-A high-performance Discord counting bot designed for scalability and large communities.
+The definitive competitive counting experience with real-time global tracking and scalable infrastructure.
 
 **Stack**
 
@@ -80,6 +46,73 @@ Infrastructure Hosting
 
 ---
 
+### 🛠 DCI Utilities
+**Status:** In Development  
+
+A high-performance administrative and automation suite designed for modern Discord servers.
+
+**Features Planned**
+
+- Moderation tools
+- Automation
+- Server utilities
+- Performance-focused modules
+- Modular architecture
+
+---
+
+### 🖥 DCI Studios Hosting
+**Status:** Web Hosting Stable | Bot Hosting In Development  
+**Website:** https://hosting.dcistudios.xyz
+
+Professional NVMe-powered hosting infrastructure built for performance and reliability.
+
+**Services**
+
+- Stable web hosting
+- NVMe infrastructure
+- Secure environments
+- Bot hosting (coming soon)
+- High-performance network
+
+---
+
+## 🔐 Repository Visibility
+
+DCI Studios follows a **private-first development model**.
+
+### Policy
+
+- Private repositories by default
+- Public releases only when stable
+- Infrastructure projects remain restricted
+- Security and internal tools are not public
+- Official announcements required for releases
+
+---
+
+## 🌐 Official Links
+
+<p align="center">
+  <a href="https://dcistudios.xyz">
+    <img src="https://img.shields.io/badge/DCI_Studios-Website-38BDF8?style=for-the-badge" />
+  </a>
+
+  <a href="https://dcicounting.com">
+    <img src="https://img.shields.io/badge/DCI_Counting-Project-10B981?style=for-the-badge" />
+  </a>
+
+  <a href="https://hosting.dcistudios.xyz">
+    <img src="https://img.shields.io/badge/DCI_Hosting-Infrastructure-0EA5E9?style=for-the-badge" />
+  </a>
+
+  <a href="https://thecarter.xyz">
+    <img src="https://img.shields.io/badge/Carter-Portfolio-6366F1?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
 ## 🧠 Tech Stack
 
 <p align="center">
@@ -88,31 +121,18 @@ Infrastructure Hosting
 
 ---
 
-## 🔐 Repository Visibility
+## 📢 Public Release Notice
 
-DCI Studios operates under a **private-first development model**.
+When a repository becomes public:
 
-### What this means
-
-- Most repositories are hidden
-- Internal tools remain private
-- Security and infrastructure projects are restricted
-- Public projects will be announced officially
+- It will appear in this organization
+- It will be announced officially
+- It will include documentation
+- It will be maintained by DCI Studios
 
 ---
 
-## 📢 Announcements
-
-All official releases and updates will be shared through:
-
-- Website
-- Portfolio
-- Discord
-- GitHub Releases
-
----
-
-## 👑 Organization Leadership
+## 👑 Leadership
 
 **Owner & Founder:** Carter  
 **Organization:** DCI Studios
@@ -122,15 +142,13 @@ All official releases and updates will be shared through:
 ## 📬 Contact
 
 <p align="center">
-  <a href="mailto:carter@dcistudios.xyz">
-    <img src="https://img.shields.io/badge/Email-carter@dcistudios.xyz-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:developer@dcistudios.xyz">
+    <img src="https://img.shields.io/badge/Email-developer@dcistudios.xyz-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  
-  <img src="https://img.shields.io/badge/Discord-carter.accs-5865F2?style=flat-square&logo=discord&logoColor=white" />
 </p>
 
 ---
 
 <p align="center">
-  <b>DCI Studios — Private Development. Public Innovation.</b>
+<b>DCI Studios — Architecting Excellence.</b>
 </p>
